@@ -1,0 +1,15 @@
+body{
+    background-color: #015c53;
+    color: aliceblue;
+}
+h2{
+    color:#E9762B;
+}
+.texto_paragrafo{
+    color:#FFD66B;
+    font-size: 30px;
+}
+#nome_usuario{
+    font-weight: bold;
+    color: red;
+}
